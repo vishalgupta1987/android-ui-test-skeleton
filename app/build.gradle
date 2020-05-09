@@ -11,7 +11,7 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId "com.sampleapp" //REPLACE WITH PACKAGE NAME of App to test
+        applicationId "PACKAGE NAME HERE" //replace with package name of the app you want to test for e.g. com.myapp
         minSdkVersion 18
         targetSdkVersion 28
         versionCode 2
